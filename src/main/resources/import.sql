@@ -1,0 +1,1 @@
+insert into reservas (costo) values (349.99)
